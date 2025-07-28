@@ -1,5 +1,5 @@
 # Introduction
-Analyses regarding languages in NYC, for Intl Cafe event planning
+Analyses regarding languages in NYC, for Intl Cafe event planning. At the time of this writing, visualizations for a subset of the data are hosted at https://bieniekalexander.nextgis.com/resource/20.
 
 # Data
 - Census Data
